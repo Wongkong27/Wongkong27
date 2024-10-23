@@ -10,4 +10,4 @@
         android:text="Merhaba Dünya!"
         android:textSize="24sp"
         android:layout_centerInParent="true"/>
-</RelativeLayout>
+
